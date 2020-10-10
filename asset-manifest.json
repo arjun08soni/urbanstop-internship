@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/urbanstop-internship/static/css/main.e9d6764b.chunk.css",
+    "main.js": "/urbanstop-internship/static/js/main.b85025f4.chunk.js",
+    "main.js.map": "/urbanstop-internship/static/js/main.b85025f4.chunk.js.map",
+    "runtime-main.js": "/urbanstop-internship/static/js/runtime-main.9262a08f.js",
+    "runtime-main.js.map": "/urbanstop-internship/static/js/runtime-main.9262a08f.js.map",
+    "static/js/2.a2cccd85.chunk.js": "/urbanstop-internship/static/js/2.a2cccd85.chunk.js",
+    "static/js/2.a2cccd85.chunk.js.map": "/urbanstop-internship/static/js/2.a2cccd85.chunk.js.map",
+    "index.html": "/urbanstop-internship/index.html",
+    "precache-manifest.c9e45b84248406025dd51b0ef9405b47.js": "/urbanstop-internship/precache-manifest.c9e45b84248406025dd51b0ef9405b47.js",
+    "service-worker.js": "/urbanstop-internship/service-worker.js",
+    "static/css/main.e9d6764b.chunk.css.map": "/urbanstop-internship/static/css/main.e9d6764b.chunk.css.map",
+    "static/js/2.a2cccd85.chunk.js.LICENSE.txt": "/urbanstop-internship/static/js/2.a2cccd85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9262a08f.js",
+    "static/js/2.a2cccd85.chunk.js",
+    "static/css/main.e9d6764b.chunk.css",
+    "static/js/main.b85025f4.chunk.js"
+  ]
+}
